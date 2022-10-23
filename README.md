@@ -1,5 +1,28 @@
-# Cyberpunk-2022
-Jogo de escolhas com diferentes finais no formato Storyline desenvolvido em javascript no Instituo Proa.
+# 🎮 Cyberpunk-2022
+<h3>Jogo de escolhas com diferentes finais no formato Storyline desenvolvido em javascript no Instituo Proa. Será que você conseguiráencontrar um final feliz e descobrir a verdade? Ou irá morrer tentando? Venha jogar!</h3>
+
+<br>
+
+## Tela introdução:
+
+<img align='center' src='imgs/inicioCyberpunk.png' />
+<br>
+
+## Tela início do jogo:
+
+<img align='center' src='imgs/jogoCyberpunk.png' />
+<br>
+
+<h2>🎞️ Link do teaser:</h2>
+<h3>
+    <a  href='https://youtu.be/9a3BoxnTelw'>Teaser Cyberpunk (2022)</a>
+</h3><br>
+
+<h2>💻 Link para jogar:</h2>
+<h3>
+    <a  href='https://goulartgusta.github.io/Cyberpunk-2022/'>Cyberpunk 2022</a>
+</h3><br>
+
 
 <h2> Desenvolvedores:</h2>
 
