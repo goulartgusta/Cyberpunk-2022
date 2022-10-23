@@ -1,5 +1,5 @@
 # 🎮 Cyberpunk-2022
-### Jogo de escolhas com diferentes finais no formato Storyline desenvolvido em javascript no Instituo Proa. Será que você irá conseguir encontrar um final feliz e descobrir a verdade sobre esse mundo tecnológico? Ou irá morrer tentando? Venha conhecer!
+#### Jogo de escolhas com diferentes finais no formato Storyline desenvolvido em javascript no Instituo Proa. Será que você irá conseguir encontrar um final feliz e descobrir a verdade sobre esse mundo tecnológico? Ou irá morrer tentando? Venha conhecer!
 
 <br>
 
