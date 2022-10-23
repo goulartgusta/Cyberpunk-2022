@@ -5,20 +5,20 @@
 
 ## Tela introdução:
 
-<img align='center' src='imgs/inicioCyberpunk.png' />
+<img align="center" src="imgs/inicioCyberpunk.png" />
 <br>
 
 ## Tela início do jogo:
 
-<img align='center' src='imgs/jogoCyberpunk.png' />
+<img align="center" src="imgs/jogoCyberpunk.png" />
 <br>
 
 ## 🎞️ Link do teaser:
-### <a href='https://youtu.be/9a3BoxnTelw'>Teaser Cyberpunk 2022</a>
+### <a href="https://youtu.be/9a3BoxnTelw" target="_blank">Teaser Cyberpunk 2022</a>
 <br>
 
 ## 💻 Link para jogar:
-### <a href='https://goulartgusta.github.io/Cyberpunk-2022/'>Cyberpunk 2022</a>
+### <a href="https://goulartgusta.github.io/Cyberpunk-2022/" target="_blank">Cyberpunk 2022</a>
 <br>
 
 ## ✨ Tecnologias Usadas:
